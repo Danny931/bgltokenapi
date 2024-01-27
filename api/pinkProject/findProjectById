@@ -6,7 +6,7 @@
         "title": "BaByCandy Presale", 
         "logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1706177325558-157bbd2f9cdcc76100524bc0a57a5aa6.png", 
         "tokenSymbol": "BaByCandy", 
-        "minimumContribute": 0.1, 
+        "minimumContribute": 0.01, 
         "maximumContribute": 2, 
         "presaleRate": 17500000, 
         "totalPresale": 66, 
